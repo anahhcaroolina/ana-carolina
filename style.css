@@ -1,3 +1,59 @@
-head{
-    background-color: lightcoral; 
+.cabeçalho {
+    background-color: black;
+    background-color: #107500;
+    color: white;
+    display: flex;
+    padding: 24px;
+@@ -18,39 +18,40 @@
+}
+
+.cabeçalholista {
+    justify-content:center
+    justify-content: center;
+}
+
+.sobreaempresa {
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.635));
+    color: black;
+.sobre-o-colégio {
+    background-image: linear-gradient(#107500, #a2f596);
+    color: white;
+    font-size: 20px;
+    padding: 0px 250px;
+}
+
+.sobreaempresatitulo {
+.sobre-a-escola {
+    padding: 24px 0px;
+}
+
+.funcionamento {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.633), rgb(255, 255, 255));
+    color: black;
+.cardápio {
+    background-image: linear-gradient(#a2f596, #107500);
+    color: white;
+    font-size: 20px;
+    padding: 0px 250px;
+}
+
+.funcionamentoempresa {
+.cardápio-da-semana {
+    padding: 24px 0px;
+}
+
+.imagem {
+    background-image: linear-gradient(black, black);
+.galeria {
+    background-image: linear-gradient(#107500, #107500);
+    color: white;
+    font-size: 20px;
+    padding: 0px 250px;
+}
+
+.imagenseventos {
+.fotos {
+    width: 1%;
+    height: 1%;
+}
 }
