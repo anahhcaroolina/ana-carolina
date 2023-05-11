@@ -1,59 +1,54 @@
 .cabeçalho {
-    background-color: black;
-    background-color: #107500;
+    background-color: #b129b1;
     color: white;
     display: flex;
     padding: 24px;
-@@ -18,39 +18,40 @@
-}
+    font-size: 20px;
+    justify-content: space-around;
+    }
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+.cabeçalhoimagem {
+    width: 8%;
+    height: 8%;
+    }
 
 .cabeçalholista {
-    justify-content:center
     justify-content: center;
-}
+    }
 
-.sobreaempresa {
-    background-image: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.635));
-    color: black;
-.sobre-o-colégio {
-    background-image: linear-gradient(#107500, #a2f596);
+.studio-gisele-dance {
+    background-image: linear-gradient(#884774, #e28dd4);
     color: white;
     font-size: 20px;
     padding: 0px 250px;
-}
+    }
 
-.sobreaempresatitulo {
-.sobre-a-escola {
+.beneficios-do-ballet {
     padding: 24px 0px;
-}
+    }
 
-.funcionamento {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.633), rgb(255, 255, 255));
-    color: black;
-.cardápio {
-    background-image: linear-gradient(#a2f596, #107500);
+.cronograma-semanal {
+    background-image: linear-gradient(#d67ace, #ac479e);
     color: white;
     font-size: 20px;
     padding: 0px 250px;
-}
-
-.funcionamentoempresa {
-.cardápio-da-semana {
+    }
+    
+.idades {
     padding: 24px 0px;
-}
-
-.imagem {
-    background-image: linear-gradient(black, black);
+    }
 .galeria {
-    background-image: linear-gradient(#107500, #107500);
+    background-image: linear-gradient(#a056a7, #903f9b);
     color: white;
+    
     font-size: 20px;
     padding: 0px 250px;
-}
-
-.imagenseventos {
+    }
 .fotos {
     width: 1%;
     height: 1%;
-}
 }
